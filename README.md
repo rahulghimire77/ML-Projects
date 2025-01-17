@@ -1,6 +1,6 @@
 # Heart Disease Analysis and Prediction
 
-This single-notebook workflow demonstrates data exploration, visualization, and classification model training for **heart disease** prediction. Below is an outline of the steps taken in one continuous flow.
+This workflow demonstrates data exploration, visualization, and classification model training for **heart disease** prediction. Below is an outline of the steps taken:
 
 ---
 
